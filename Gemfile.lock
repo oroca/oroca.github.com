@@ -87,6 +87,3 @@ PLATFORMS
 DEPENDENCIES
   algoliasearch-jekyll (~> 0.5.3)
   jekyll (~> 2.5.3)
-
-BUNDLED WITH
-   1.10.6
